@@ -1,7 +1,7 @@
 const nome = "Silvana";
 const sexo = "F";
 const idade = 48;
-const contribuicao = 40;
+const contribuicao = 4;
 
 const condicao1 = (contribuicao > 35) || (idade >= 95);
 const condicao2 = (contribuicao > 30) || (idade >= 85);
